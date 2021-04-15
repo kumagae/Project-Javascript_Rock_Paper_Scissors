@@ -1,8 +1,3 @@
-
-
-
-
-
 function computerPlay() {
     const computerOptions = ['Rock','Paper','Scissors']
     var computerChoice = computerOptions[Math.floor((Math.random() * 3))];    
